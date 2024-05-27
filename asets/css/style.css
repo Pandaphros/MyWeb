@@ -172,8 +172,8 @@ section {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 1.5rem;
+    font-weight: 900;
     color: var(--text-color);
     margin-left: 35px;
 }
@@ -606,7 +606,6 @@ header.sticky {
 
 
 }
-
 
 
 
